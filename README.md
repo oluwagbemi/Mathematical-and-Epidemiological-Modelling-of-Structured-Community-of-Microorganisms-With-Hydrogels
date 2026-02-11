@@ -1,2 +1,3 @@
 # Mathematical-Modelling-and-Simulation-of-Structured-Microorganism-Community-With-Hydrogels-Surfaces
-Mathematical and Epidemiological Modelling of Structured Microorganisms With Hydrogels
+BioHydroCor: Mathematical Modelling of Structured Microorganisms Community With Hydrogels
+Developed by Dr.Olugbenga Oluwagbemi
